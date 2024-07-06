@@ -1,0 +1,7 @@
+Flask
+requests
+jinja2
+sqlite3
+re
+time
+math
